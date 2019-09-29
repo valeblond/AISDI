@@ -1,5 +1,5 @@
 ## AISDI
-#Algorytmy i struktury danych
+#Algorytmy i struktury danych(the 3rd semester)
 
-Projects in the 3rd semester. 
-C++.
+Projects in C++.
+
